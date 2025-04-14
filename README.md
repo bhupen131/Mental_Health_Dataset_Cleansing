@@ -21,6 +21,6 @@ Furthermore, I conducted an exploratory data analysis (EDA) to uncover key patte
 <ul>
   <li>Identified countries with higher prevalence of mental health issues and their socio-economic impact.</li>
   <li>Analyzed mental health by age groups and industry types (e.g., tech vs non-tech companies).</li>
-  <li>Built clear and engaging dashboards in <b>Tableau</b> for a comprehensive visualization of the data.</li>
+  <li>Built clear and engaging dashboards in <b><a href="https://public.tableau.com/views/MentalHealthDatasetAnalysis/MentalHealthStudyOfEmployeesInWorkplace?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau</a></b> for a comprehensive visualization of the data.</li>
   <li>Enabled actionable insights to improve workplace well-being and productivity based on findings.</li>
 </ul>
