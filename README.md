@@ -1,3 +1,5 @@
-# Mental_Health_Dataset_Cleansing
+# Mental Health Data Analysis, Insights & Distributions
 ## Summary :
-The original dataset was messy, containing several missing, duplicate, and incorrect values, along with some unnecessary columns that weren’t useful for visualization. So, I first cleaned and analyzed the dataset, then exported the cleaned version to a CSV file for visualization in Tableau. I also generated a summary/statistical report using Python, exported it as an HTML file, and finally visualized the cleaned dataset using Tableau.
+The original dataset was quite unstructured, containing numerous missing entries, duplicate records, and incorrect values. Additionally, it included several irrelevant columns that offered little value for analysis or visualization. To address these issues, I first performed thorough data cleaning and preprocessing using Python. This involved handling missing data, removing duplicates, and dropping unnecessary features. Once the dataset was cleaned, I exported the refined version to a CSV file for seamless integration with Tableau.
+
+Furthermore, I conducted an exploratory data analysis (EDA) to uncover key patterns and trends, generating a detailed statistical summary which I exported as an HTML report. Finally, I used Tableau to create interactive visualizations, enabling deeper insights from the cleaned dataset.
