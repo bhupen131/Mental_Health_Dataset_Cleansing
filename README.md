@@ -9,8 +9,6 @@ The original dataset was quite unstructured, containing numerous missing entries
 Furthermore, I conducted an exploratory data analysis (EDA) to uncover key patterns and trends, generating a detailed statistical summary which I exported as an HTML report. Finally, I used <b>Tableau</b> to create interactive visualizations, enabling deeper insights from the cleaned dataset.
 </p>
 
-[▶️ Watch the Demo](./Demo/)
-
 <h3>📊 Project Details</h3>
 <ul>
   <li>Performed comprehensive data cleaning, handling missing values, duplicates, and irrelevant columns.</li>
